@@ -6,6 +6,8 @@ public class NauticalMilesInteractive {
         int numberOfMiles;
         int numberOfKilometers;
         Scanner keyboard = new Scanner(System.in);
+        System.out.println("Please eneter number of nautical miles");
+        
 
 
 
