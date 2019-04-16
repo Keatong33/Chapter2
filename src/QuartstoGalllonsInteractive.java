@@ -11,6 +11,6 @@ public class QuartstoGalllonsInteractive {
         numberOfGallons = numberOfQuartsInputed / NUM_QUARTS_IN_GALLON;
         remainderOfQuarts = numberOfQuartsInputed % NUM_QUARTS_IN_GALLON;
         System.out.println("The number of gallons ordered is " + numberOfGallons +
-                " and the number of quarts remainig is " + remainderOfQuarts);
+                " and the number of quarts remaining is " + remainderOfQuarts);
     }
 }
