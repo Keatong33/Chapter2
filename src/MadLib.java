@@ -1,5 +1,5 @@
 import javax.swing.*;
-public class MadLibPractice {
+public class MadLib {
     public static void main(String [] args) {
         String color;
         String wordEST;
